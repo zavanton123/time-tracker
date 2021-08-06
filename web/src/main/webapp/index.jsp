@@ -12,6 +12,7 @@
 </head>
 <body>
   <h1>Super Simple Example Web Page</h1>
+  <h3>Hello world</h3>
   <p>
     This is a very simple example web page on a JSP.
   </p>
